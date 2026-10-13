@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
+dataset/*
+!dataset/README.md
+evaluation/
+*.pt
+*.pth
+*.safetensors
